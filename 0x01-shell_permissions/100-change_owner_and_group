@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown -R vincent ./alx-systems_engineering-devops
