@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 777 alx-systems_engineering-devops
+sudo chmod -R a+rwx alx-systems_engineering-devops/
